@@ -2,7 +2,7 @@
 
 ## 📚 About This Project
 
-Welcome to **LinearRegression-Exploration**, a project led by Quan Hoang Ngoc during the first semester of 2023. This project explores the **Mathematical Foundations of Computer Science** with a focus on **Linear Regression**. It's designed to take you on a journey through the fundamental principles and applications of Linear Regression.
+Welcome to **LinearRegression-Exploration**, a project led by me.  This project explores the **Mathematical Foundations of Computer Science** with a focus on **Linear Regression**. It's designed to take you on a journey through the fundamental principles and applications of Linear Regression.
 
 ---
 
